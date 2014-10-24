@@ -1,11 +1,11 @@
 Github-Odev
 ===========
 
-* trgfyhu
-* fghjk
-* ghj
-* tfghjk
+* Her kes projeyi forklasın
+* isminiz.md dosyası ekleyin
+* pull request gönderin
+* Mutlu son :)
 
 ```bash
-echo Hello
+echo Hello Github-WORKSHOP
 ```
